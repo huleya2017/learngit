@@ -13,6 +13,9 @@ git push origin master
 3:clone a repo from github to local
 git clone git@github.com:huleya/reponame.git
 
+4:pull intro after gitbub repo update
+git pull
+
 3:tag
 3.1:git tag<name>//create a new tag
 3.2:git tag //list all tags
