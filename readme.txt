@@ -15,7 +15,7 @@ git clone git@github.com:huleya/reponame.git
 
 3:tag
 3.1:git tag<name>//create a new tag
-3.2:git tag. //list all tags
+3.2:git tag //list all tags
 3.3:git show <tagname> //show tag
 3.4git log --pretty=oneline --abbrev-commit
 3.4.1 git tag <tagname> logname
